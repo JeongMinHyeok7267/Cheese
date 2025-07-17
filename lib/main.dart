@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-
+//git 연동 테스트
 void main() {
   runApp(const MyApp());
 }
